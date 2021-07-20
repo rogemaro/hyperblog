@@ -12,3 +12,4 @@ Soy economista de profesión y esta es mi práctica del curso de git y git hub q
 *Que Git y Git Hub son herramientas escenciales para conseguir trabajo en la industria*
 *Creado por el increible Platzi Team*
 *Incluye ejemplos en win linux y mac*
+*Disponible para todas las edades*
