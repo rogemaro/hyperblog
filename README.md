@@ -10,3 +10,4 @@ Soy economista de profesión y esta es mi práctica del curso de git y git hub q
 *El flujo de trabajo de un equipo profesional*
 *Forks y contribnuciones a proyectos de código abierto*
 *Que Git y Git Hub son herramientas escenciales para conseguir trabajo en la industria*
+*Creado por el increible Platzi Team*
